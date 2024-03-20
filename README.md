@@ -1,4 +1,4 @@
-# SDT_fit_Py
+# SDT_fit
 
 This code is a branch from the original package. Ported to Python and R by Trevor Caruso. Please contact trevorcaruso@ufl.edu for any questions or comments.
 
