@@ -13,11 +13,11 @@ If you utilize these functions, please cite the aforementioned papers and script
 The same input-format as M & L is expected. As per the original code:
 
 INPUTS
-#
+
 * nR_S1, nR_S2
 these are vectors containing the total number of responses in
 each response category, conditional on presentation of S1 and S2.
-#
+
 e.g. if nR_S1 = [100 50 20 10 5 1], then when stimulus S1 was
 presented, the subject had the following response counts:
 responded S1, rating=3 : 100 times
@@ -26,7 +26,7 @@ responded S1, rating=1 : 20 times
 responded S2, rating=1 : 10 times
 responded S2, rating=2 : 5 times
 responded S2, rating=3 : 1 time
-#
+
 The ordering of response / rating counts for S2 should be the same as it
 is for S1. e.g. if nR_S2 = [3 7 8 12 27 89], then when stimulus S2 was
 presented, the subject had the following response counts:
