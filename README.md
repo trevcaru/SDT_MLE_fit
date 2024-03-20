@@ -1,6 +1,6 @@
 # SDT_fit_Py
 
-This code is a branch from the original package. Ported to Python by Trevor Caruso. Please contact trevorcaruso@ufl.edu for any questions or comments.
+This code is a branch from the original package. Ported to Python and R by Trevor Caruso. Please contact trevorcaruso@ufl.edu for any questions or comments.
 
 For more information about metacognitive and Type 2 Signal Detection Theory (SDT), visit the following website at http://www.columbia.edu/~bsm2105/type2sdt/ and refer to the following publications:
 
