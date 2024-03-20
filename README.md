@@ -14,7 +14,7 @@ The same input-format as M & L is expected. As per the original code:
 
 INPUTS
 
-* nR_S1, nR_S2  
+nR_S1, nR_S2  
 these are vectors containing the total number of responses in  
 each response category, conditional on presentation of S1 and S2.  
 
